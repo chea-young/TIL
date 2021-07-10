@@ -1,12 +1,14 @@
 # TIL
 Today I learned ✏️ 
 
-### 모각코
+### 
 <details>
-    <summary>
-      - 
+    <summary style="font-Weight : bold; font-size : 30px; color : #E43914; > 모각코  </summary>
+     <div> 
+         - 
+     </div>
 
 
-    </summary>
+   
 </deatils>
 
