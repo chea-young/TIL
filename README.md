@@ -1,11 +1,12 @@
 # TIL
 Today I learned ✏️ 
 
-### 
+## 
 <details>
-    <summary style="font-Weight : bold; font-size : 30px; color : #E43914; > 모각코  </summary>
+    <summary>  모각코  </summary>
      <div> 
-         - 
+         - 1주차
+            - 210710: 
      </div>
 
 
