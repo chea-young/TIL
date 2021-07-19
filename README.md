@@ -1,6 +1,12 @@
 # TIL
 Today I learned ✏️ 
 
+## 7월 3주
+- node.js 마무리 
+- node.js clone 코딩
+- linux 수업듣기
+- 코드잇 잘 듣기
+
 ## 
 <details>
     <summary>모각코</summary>
