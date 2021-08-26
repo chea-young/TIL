@@ -72,6 +72,12 @@ Today I learned ✏️
     - [210818]
         - 개발 논의
         - 리액트 합치기
-        
+ -8주차
+    -[210826]
+        - Home 페이지 리액트 수정, 백앤드 연결
+        - Basic, Advanced page 리액트 페이지 구축, 백인드 연결
+        - Mypage 페이지 논의
+        - DB 회의 후 수정
+
 </div>
 </deatils>
