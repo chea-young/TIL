@@ -72,12 +72,19 @@ Today I learned ✏️
     - [210818]
         - 개발 논의
         - 리액트 합치기
+    - [다음시간]
+        - Signin redux, 프런트 백 부분 하기, 페이지 전달 받는 데로 연결하기
  -8주차
     -[210826]
         - Home 페이지 리액트 수정, 백앤드 연결
         - Basic, Advanced page 리액트 페이지 구축, 백인드 연결
         - Mypage 페이지 논의
         - DB 회의 후 수정
+    - [다음시간]
+        - 못 한 부분 마무리
+        - Mypage 이미지 보내기
+        - content 전달 받으면 제작했던 부분이랑 이어서 개발
+        - Deployment
 
 </div>
 </deatils>
