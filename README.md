@@ -1,6 +1,13 @@
 # TIL
 Today I learned ✏️ 
 
+Techblog Plan
+|월|화|수|목|금|토|일|
+|-----|-----|-----|-----|-----|-----|-----|
+|알고리즘|백앤드|클라우드|프론트앤드|클라우드|백앤드|❤️|
+|책|Spring|K8S|Vue|K8S|SpringBoot|❤️|
+|문제||OKD|React-Native|OKD||❤️|
+
 ## 7월 3주
 - node.js 마무리 
 - node.js clone 코딩
@@ -85,13 +92,5 @@ Today I learned ✏️
         - Mypage 이미지 보내기
         - content 전달 받으면 제작했던 부분이랑 이어서 개발
         - Deployment
-
 </div>
 </deatils>
-
-Techblog Plan
-|월|화|수|목|금|토|일|
-|-----|-----|-----|-----|-----|-----|-----|
-|알고리즘|백앤드|클라우드|프론트앤드|클라우드|백앤드|❤️|
-|책|Spring|K8S|Vue|K8S|SpringBoot|❤️|
-|문제||OKD|React-Native|OKD||❤️|
