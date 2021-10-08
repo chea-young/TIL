@@ -88,3 +88,10 @@ Today I learned ✏️
 
 </div>
 </deatils>
+
+Techblog Plan
+|월|화|수|목|금|토|일|
+|-----|-----|-----|-----|-----|-----|-----|
+|알고리즘|백앤드|클라우드|프론트앤드|클라우드|백앤드|❤️|
+|책|Spring|K8S|Vue|K8S|SpringBoot|❤️|
+|문제||OKD|React-Native|OKD||❤️|
